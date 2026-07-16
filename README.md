@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:7C3AED&amp;height=220&amp;section=header&amp;text=San%20Mark%20Morcoso&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20Native%20%E2%80%A2%20MERN&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:7C3AED&amp;height=220&amp;section=header&amp;text=San%20Mark%20Morcoso&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20Native%20%E2%80%A2%20MERN&amp;descAlignY=55&amp;descSize=18&amp;v=2" width="100%"/>
 
 <a href="https://github.com/s4nm4rkus">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+paper-based+processes+into+digital+systems;Laravel+%2B+MERN+Stack+Developer;Building+the+ICT+Hub+for+Tayabas+City+Schools+Division;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+paper-based+processes+into+digital+systems;Laravel+%2B+MERN+Stack+Developer;Building+the+ICT+Hub+for+Tayabas+City+Schools+Division;Always+learning%2C+always+shipping.&amp;v=2" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=s4nm4rkus&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/s4nm4rkus?label=Followers&amp;style=flat-square&amp;color=2563eb" alt="followers"/>
-<img src="https://img.shields.io/badge/Location-Tayabas%20City%2C%20PH-2563eb?style=flat-square" alt="location"/>
+<img src="https://komarev.com/ghpvc/?username=s4nm4rkus&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square&amp;v=2" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/s4nm4rkus?label=Followers&amp;style=flat-square&amp;color=2563eb&amp;v=2" alt="followers"/>
+<img src="https://img.shields.io/badge/Location-Tayabas%20City%2C%20PH-2563eb?style=flat-square&amp;v=2" alt="location"/>
 
 </div>
 
@@ -31,16 +31,16 @@
 
 **Languages and Frameworks**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,html,css&amp;perline=8" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,html,css&amp;perline=8&amp;v=2" />
 
 **Databases and Platforms**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&amp;perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&amp;perline=8&amp;v=2" />
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,xd&amp;perline=8" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&amp;logo=canva&amp;logoColor=white" />
+<img src="https://skillicons.dev/icons?i=figma,xd&amp;perline=8&amp;v=2" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&amp;logo=canva&amp;logoColor=white&amp;v=2" />
 
 <br/>
 
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/last-commit/s4nm4rkus/tayabas-ict-hub?style=flat-square&amp;color=7c3aed&amp;label=Last%20Commit%20(ICT%20Hub)" />
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;color=2563eb&amp;label=Public%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Fs4nm4rkus" />
+<img src="https://img.shields.io/github/last-commit/s4nm4rkus/tayabas-ict-hub?style=flat-square&amp;color=7c3aed&amp;label=Last%20Commit%20(ICT%20Hub)&amp;v=2" />
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;color=2563eb&amp;label=Public%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Fs4nm4rkus&amp;v=2" />
 
 </div>
 
@@ -71,12 +71,12 @@
 <div align="center">
 
 <a href="mailto:sanmarkusmorcoso@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;v=2" />
 </a>
 <a href="https://github.com/s4nm4rkus">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;v=2" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:2563EB&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:2563EB&amp;height=100&amp;section=footer&amp;v=2" width="100%"/>
