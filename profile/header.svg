@@ -24,7 +24,7 @@
 
   <text x="600" y="135" font-family="Verdana, Segoe UI, sans-serif" font-size="18"
         fill="#e8e8ff" text-anchor="middle">
-    Web &amp; Mobile Developer | Laravel • React Native • MERN
+    Software Developer
     <animate attributeName="opacity" from="0" to="1" dur="1.8s" fill="freeze"/>
   </text>
 </svg>

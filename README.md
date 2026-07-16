@@ -34,7 +34,7 @@
 
 ```yaml
 name: San Mark Morcoso
-role: Web & Mobile Developer
+role: Software Developer
 based_in: Tayabas City, Philippines
 focus:
   - Digitizing government workflows
@@ -77,9 +77,9 @@ currently_building: Tayabas ICT Hub
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" />
-<img src="./profile/streak.svg" width="48%" />
-<img src="./profile/top-langs.svg" width="48%" />
+<img src="./profile/stats.svg" width="35%" />
+<img src="./profile/streak.svg" width="35%" />
+<img src="./profile/top-langs.svg" width="28%" />
 
 </div>
 
