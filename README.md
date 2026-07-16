@@ -68,7 +68,7 @@ currently_building: Tayabas ICT Hub
 **Design**
 
 <img src="https://skillicons.dev/icons?i=figma,xd&perline=8" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://shields.io" />
 
 </div>
 
@@ -94,8 +94,6 @@ currently_building: Tayabas ICT Hub
 <div align="center">
 <img src="https://raw.githubusercontent.com/s4nm4rkus/s4nm4rkus/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
-
-> ℹ️ **Setup note:** this animated snake isn't automatic — it needs a small GitHub Action in your profile repo (`s4nm4rkus/s4nm4rkus`) that regenerates `github-contribution-grid-snake-dark.svg` on a schedule. I've included the workflow file below so it starts working right after you push.
 
 <br/>
 
