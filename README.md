@@ -79,7 +79,7 @@ currently_building: Tayabas ICT Hub
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s4nm4rkus&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=s4nm4rkus&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" width="48%" />
 
 <br/>
 
@@ -103,6 +103,8 @@ currently_building: Tayabas ICT Hub
 <img src="https://raw.githubusercontent.com/s4nm4rkus/s4nm4rkus/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
+> ℹ️ **Setup note:** this animated snake isn't automatic — it needs a small GitHub Action in your profile repo (`s4nm4rkus/s4nm4rkus`) that regenerates `github-contribution-grid-snake-dark.svg` on a schedule. I've included the workflow file below so it starts working right after you push.
+
 <br/>
 
 ## 🚀 Featured Projects
@@ -112,7 +114,6 @@ currently_building: Tayabas ICT Hub
 <td width="50%" valign="top">
 
 ### [ICTHub — SDO Tayabas Centralized System](https://github.com/s4nm4rkus/tayabas-ict-hub)
-
 Centralized platform unifying school units and division offices — role-based access, CS Form No. 6 leave workflow with e-signatures and PDF generation, employee records, certificate requests, attendance tracking, internal messaging, notice boards, and ICT ticketing.
 
 `Laravel` `MySQL` `Bootstrap`
@@ -121,7 +122,6 @@ Centralized platform unifying school units and division offices — role-based a
 <td width="50%" valign="top">
 
 ### [ICT Unit Ticketing System](https://github.com/s4nm4rkus/ICT_Ticketing)
-
 Full-stack ICT service desk supporting Technical Assistance Forms, HelpDesk Requests, Email Requests, and DTS Requests, with improved request tracking and service delivery.
 **Live:** [tayabasict.online](https://tayabasict.online/)
 
@@ -133,7 +133,6 @@ Full-stack ICT service desk supporting Technical Assistance Forms, HelpDesk Requ
 <td width="50%" valign="top">
 
 ### [MPS School Management System](https://github.com/s4nm4rkus/SDO_TAYABAS_MPS)
-
 Role-based system for DepEd schools to manage sections, students, and Mean Percentage Score (MPS) encoding, with auto-computed MPS/SD, live dashboards, and quarterly CSV-exportable reports.
 
 `React` `Node.js` `Express` `MySQL`
@@ -141,8 +140,7 @@ Role-based system for DepEd schools to manage sections, students, and Mean Perce
 </td>
 <td width="50%" valign="top">
 
-### OXY: Smart Indoor Air Sanitizer _(Capstone)_
-
+### OXY: Smart Indoor Air Sanitizer *(Capstone)*
 Android app paired with an IoT device for real-time indoor air quality monitoring and remote control.
 
 `Android Studio (Java)` `Firebase`
