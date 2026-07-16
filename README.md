@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=San%20Mark%20Morcoso&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20Native%20%E2%80%A2%20MERN&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:7C3AED&amp;height=220&amp;section=header&amp;text=San%20Mark%20Morcoso&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20Native%20%E2%80%A2%20MERN&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/s4nm4rkus">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+paper-based+processes+into+digital+systems;Laravel+%2B+MERN+Stack+Developer;Building+the+ICT+Hub+for+Tayabas+City+Schools+Division;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+paper-based+processes+into+digital+systems;Laravel+%2B+MERN+Stack+Developer;Building+the+ICT+Hub+for+Tayabas+City+Schools+Division;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=s4nm4rkus&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/s4nm4rkus?label=Followers&style=flat-square&color=2563eb" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=s4nm4rkus&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/s4nm4rkus?label=Followers&amp;style=flat-square&amp;color=2563eb" alt="followers"/>
 <img src="https://img.shields.io/badge/Location-Tayabas%20City%2C%20PH-2563eb?style=flat-square" alt="location"/>
 
 </div>
@@ -29,18 +29,18 @@
 
 ## Tech Stack
 
-**Languages & Frameworks**
+**Languages and Frameworks**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,express,html,css&amp;perline=8" />
 
-**Databases & Platforms**
+**Databases and Platforms**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&amp;perline=8" />
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,xd&perline=8" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=figma,xd&amp;perline=8" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&amp;logo=canva&amp;logoColor=white" />
 
 <br/>
 
@@ -49,16 +49,16 @@
 <div align="center">
 
 <a href="https://github.com/s4nm4rkus/tayabas-ict-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&repo=tayabas-ict-hub&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=tayabas-ict-hub&amp;theme=default&amp;hide_border=true" />
 </a>
 <a href="https://github.com/s4nm4rkus/ICT_Ticketing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&repo=ICT_Ticketing&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=ICT_Ticketing&amp;theme=default&amp;hide_border=true" />
 </a>
 <a href="https://github.com/s4nm4rkus/SDO_TAYABAS_MPS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&repo=SDO_TAYABAS_MPS&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=SDO_TAYABAS_MPS&amp;theme=default&amp;hide_border=true" />
 </a>
 <a href="https://github.com/s4nm4rkus/OxyMobileApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&repo=OxyMobileApp&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=OxyMobileApp&amp;theme=default&amp;hide_border=true" />
 </a>
 
 </div>
@@ -76,10 +76,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nm4rkus&layout=compact&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nm4rkus&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s4nm4rkus&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s4nm4rkus&amp;theme=default&amp;hide_border=true" />
 
 </div>
 
@@ -90,12 +90,12 @@
 <div align="center">
 
 <a href="mailto:sanmarkusmorcoso@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 <a href="https://github.com/s4nm4rkus">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:2563EB&amp;height=100&amp;section=footer" width="100%"/>
