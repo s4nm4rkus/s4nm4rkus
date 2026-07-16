@@ -49,16 +49,16 @@
 <div align="center">
 
 <a href="https://github.com/s4nm4rkus/tayabas-ict-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=tayabas-ict-hub&amp;theme=default&amp;hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=tayabas-ict-hub&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
 </a>
 <a href="https://github.com/s4nm4rkus/ICT_Ticketing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=ICT_Ticketing&amp;theme=default&amp;hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=ICT_Ticketing&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
 </a>
 <a href="https://github.com/s4nm4rkus/SDO_TAYABAS_MPS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=SDO_TAYABAS_MPS&amp;theme=default&amp;hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=SDO_TAYABAS_MPS&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
 </a>
 <a href="https://github.com/s4nm4rkus/OxyMobileApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=OxyMobileApp&amp;theme=default&amp;hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=OxyMobileApp&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
 </a>
 
 </div>
@@ -76,10 +76,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nm4rkus&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nm4rkus&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s4nm4rkus&amp;theme=default&amp;hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=s4nm4rkus&amp;theme=default&amp;hide_border=true" />
 
 </div>
 
