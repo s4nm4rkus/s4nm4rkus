@@ -1,9 +1,8 @@
-
 name: Update README Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
+    - cron: "0 0 * * *" # runs once a day
   workflow_dispatch: {}
   push:
     branches:
@@ -44,7 +43,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
