@@ -89,14 +89,6 @@ currently_building: Tayabas ICT Hub
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="./profile/trophy.svg" />
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
