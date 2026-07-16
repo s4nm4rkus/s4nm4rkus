@@ -79,9 +79,6 @@ currently_building: Tayabas ICT Hub
 
 <img src="./profile/stats.svg" width="48%" />
 <img src="./profile/streak.svg" width="48%" />
-
-<br/>
-
 <img src="./profile/top-langs.svg" width="48%" />
 
 </div>
