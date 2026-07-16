@@ -68,7 +68,6 @@ currently_building: Tayabas ICT Hub
 **Design**
 
 <img src="https://skillicons.dev/icons?i=figma,xd&perline=8" />
-<img src="https://shields.io" />
 
 </div>
 
