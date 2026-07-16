@@ -1,0 +1,25 @@
+<svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .line { font-family: 'Courier New', monospace; font-size: 20px; fill: #7C3AED; }
+  </style>
+
+  <text x="0" y="26" class="line" opacity="0">
+    Turning paper-based processes into digital systems
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.25;1" dur="12s" repeatCount="indefinite" begin="0s"/>
+  </text>
+
+  <text x="0" y="26" class="line" opacity="0">
+    Laravel + MERN Stack Developer
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.30;0.47;0.50;1" dur="12s" repeatCount="indefinite" begin="0s"/>
+  </text>
+
+  <text x="0" y="26" class="line" opacity="0">
+    Building the ICT Hub for Tayabas City Schools Division
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50;0.55;0.72;0.75;1" dur="12s" repeatCount="indefinite" begin="0s"/>
+  </text>
+
+  <text x="0" y="26" class="line" opacity="0">
+    Always learning, always shipping.
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.80;0.97;1" dur="12s" repeatCount="indefinite" begin="0s"/>
+  </text>
+</svg>

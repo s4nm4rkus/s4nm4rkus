@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=San%20Mark%20Morcoso&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20Native%20%E2%80%A2%20MERN&descAlignY=55&descSize=18" width="100%"/>
+<img src="./profile/header.svg" width="100%"/>
 
 <a href="https://github.com/s4nm4rkus">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+paper-based+processes+into+digital+systems;Laravel+%2B+MERN+Stack+Developer;Building+the+ICT+Hub+for+Tayabas+City+Schools+Division;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="./profile/typing.svg" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -103,7 +103,7 @@ currently_building: Tayabas ICT Hub
 <img src="https://raw.githubusercontent.com/s4nm4rkus/s4nm4rkus/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
-<!-- > ℹ️ **Setup note:** this animated snake isn't automatic — it needs a small GitHub Action in your profile repo (`s4nm4rkus/s4nm4rkus`) that regenerates `github-contribution-grid-snake-dark.svg` on a schedule. I've included the workflow file below so it starts working right after you push. -->
+> ℹ️ **Setup note:** this animated snake isn't automatic — it needs a small GitHub Action in your profile repo (`s4nm4rkus/s4nm4rkus`) that regenerates `github-contribution-grid-snake-dark.svg` on a schedule. I've included the workflow file below so it starts working right after you push.
 
 <br/>
 
@@ -176,4 +176,4 @@ Android app paired with an IoT device for real-time indoor air quality monitorin
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%"/>
+<img src="./profile/footer.svg" width="100%"/>
