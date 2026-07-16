@@ -78,12 +78,12 @@ currently_building: Tayabas ICT Hub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=s4nm4rkus&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" width="48%" />
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/streak.svg" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nm4rkus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 </div>
 
@@ -92,7 +92,7 @@ currently_building: Tayabas ICT Hub
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=s4nm4rkus&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<img src="./profile/trophy.svg" />
 </div>
 
 <br/>
