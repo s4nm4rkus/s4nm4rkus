@@ -46,23 +46,6 @@
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/s4nm4rkus/tayabas-ict-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=tayabas-ict-hub&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
-</a>
-<a href="https://github.com/s4nm4rkus/ICT_Ticketing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=ICT_Ticketing&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
-</a>
-<a href="https://github.com/s4nm4rkus/SDO_TAYABAS_MPS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=SDO_TAYABAS_MPS&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
-</a>
-<a href="https://github.com/s4nm4rkus/OxyMobileApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=s4nm4rkus&amp;repo=OxyMobileApp&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
-</a>
-
-</div>
-
 | Project | What it does | Stack |
 |---|---|---|
 | **[ICTHub — SDO Tayabas Centralized System](https://github.com/s4nm4rkus/tayabas-ict-hub)** | Centralized platform unifying school units and division offices — role-based access, CS Form No. 6 leave workflow with e-signatures and PDF generation, employee records, certificate requests, attendance tracking, internal messaging, notice boards, and ICT ticketing. | Laravel, MySQL, Bootstrap |
@@ -76,10 +59,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s4nm4rkus&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4nm4rkus&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;cache_seconds=86400" />
-
-<img src="https://streak-stats.demolab.com/?user=s4nm4rkus&amp;theme=default&amp;hide_border=true" />
+<img src="https://img.shields.io/github/last-commit/s4nm4rkus/tayabas-ict-hub?style=flat-square&amp;color=7c3aed&amp;label=Last%20Commit%20(ICT%20Hub)" />
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&amp;color=2563eb&amp;label=Public%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Fs4nm4rkus" />
 
 </div>
 
