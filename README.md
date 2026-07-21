@@ -99,7 +99,7 @@ currently_building: Tayabas ICT Hub
 <tr>
 <td width="50%" valign="top">
 
-### [ICTHub — SDO Tayabas Centralized System](https://github.com/s4nm4rkus/tayabas-ict-hub)
+### [SDOPortal — SDO Tayabas Centralized System](https://github.com/s4nm4rkus/tayabas-ict-hub)
 
 Centralized platform unifying school units and division offices — role-based access, CS Form No. 6 leave workflow with e-signatures and PDF generation, employee records, certificate requests, attendance tracking, internal messaging, notice boards, and ICT ticketing.
 
