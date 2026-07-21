@@ -3,7 +3,7 @@
 <img src="./profile/header.svg" width="100%"/>
 
 <a href="https://github.com/s4nm4rkus">
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Software+Developer.;Creating+Scalable+Software+Solutions.;Building+Web+Applications+with+Laravel+and+React.;Always+Learning.+Always+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Developer;Laravel+%7C+React+%7C+Node.js;Building+Meaningful+Digital+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
