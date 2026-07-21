@@ -2,10 +2,6 @@
 
 <img src="./profile/header.svg" width="100%"/>
 
-<a href="https://github.com/s4nm4rkus">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Developer;Laravel+%7C+React+%7C+Node.js;Building+Meaningful+Digital+Solutions" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=s4nm4rkus&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
