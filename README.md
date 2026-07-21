@@ -61,7 +61,7 @@ currently_building: Tayabas ICT Hub
 
 **Databases & Platforms**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,bitbucket,vscode&perline=8" />
 
 <br/>
 
