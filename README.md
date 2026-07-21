@@ -101,7 +101,7 @@ currently_building: Tayabas ICT Hub
 
 ### [SDOPortal — SDO Tayabas Centralized System](https://github.com/s4nm4rkus/tayabas-ict-hub)
 
-Centralized platform unifying school units and division offices — role-based access, CS Form No. 6 leave workflow with e-signatures and PDF generation, employee records, certificate requests, attendance tracking, internal messaging, notice boards, and ICT ticketing.
+Centralized platform unifying school units and division offices — role-based access, CS Form No. 6 leave workflow with e-signatures and PDF generation, employee records, certificate requests, attendance tracking, internal messaging, notice boards, and ICT ticketing. **Live:** [sdoportal.com](https://sdoportal.com/)
 
 `Laravel` `MySQL` `Bootstrap`
 
@@ -123,6 +123,7 @@ Full-stack ICT service desk supporting Technical Assistance Forms, HelpDesk Requ
 ### [MPS School Management System](https://github.com/s4nm4rkus/SDO_TAYABAS_MPS)
 
 Role-based system for DepEd schools to manage sections, students, and Mean Percentage Score (MPS) encoding, with auto-computed MPS/SD, live dashboards, and quarterly CSV-exportable reports.
+**Live:** [tayabasmpshub.com](https://tayabasmpshub.com/)
 
 `React` `Node.js` `Express` `MySQL`
 
